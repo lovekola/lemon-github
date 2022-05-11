@@ -1,0 +1,13 @@
+table_set_default t_match_hdr_ipv4_src_addr3 _no_op
+table_set_default t_packet_counter_add_1 a_packet_counter_add_1
+table_set_default t_match_hdr_ipv4_dst_addr8 _no_op
+table_set_default t_packet_counter_add_2 a_packet_counter_add_2
+table_set_default t_match_hdr_ipv4_dst_addr13 _no_op
+table_set_default t_packet_counter_add_3_1 a_packet_counter_add_3_1
+table_set_default t_packet_counter_add_3_2 a_packet_counter_add_3_2
+
+table_set_default   table_route_next_hop _drop
+table_add           table_route_next_hop                do_route_next_hop                            10.0.0.1/32     => 00:00:00:00:00:01 1
+table_add           table_route_next_hop                do_route_next_hop                            10.0.0.2/32     => 00:00:00:00:00:02 2
+table_add           table_route_next_hop                do_route_next_hop                            10.0.0.3/32     => 00:00:00:00:00:03 3
+

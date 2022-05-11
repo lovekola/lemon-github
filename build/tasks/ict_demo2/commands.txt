@@ -1,0 +1,6 @@
+read_register	packet_counter1	1
+read_register_bf	flow_num	0
+add_entry	t_match_match_ipv4_dst10	hdr.ipv4.dst_addr	10.22.0.201	a_set_flow_index
+add_entry	t_match_match_ipv4_dst27	hdr.ipv4.dst_addr	10.22.0.201		a_compute_hash_bf
+duration	60
+window	5

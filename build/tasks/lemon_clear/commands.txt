@@ -1,0 +1,8 @@
+read_register	packet_counter1	1
+read_register_sketch	sketch_reg_threshold	0	100
+read_register_sketch	top_flow_info	16
+read_register_sketch	top_flow_size	16
+add_entry	t_match_match_tcp0	hdr.ipv4.protocol	0x06	a_set_flow_index
+add_entry	t_match_tcp7	hdr.ipv4.protocol	0x06		a_compute_hash_sketch
+duration	120
+window	5

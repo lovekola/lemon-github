@@ -1,0 +1,6 @@
+read_register	packet_counter1	1
+read_register	sketch_reg_threshold	0
+read_register_sketch	top_flow_info	16
+read_register_sketch	top_flow_size	16
+add_entry	t_match_hdr_ipv4_dst_addr0	hdr.ipv4.dst_addr	10.22.0.201	a_set_flow_index
+add_entry	t_match_hdr_ipv4_dst_addr7	hdr.ipv4.dst_addr	10.22.0.201	a_compute_hash_sketch

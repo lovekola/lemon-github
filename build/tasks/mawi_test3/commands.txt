@@ -1,0 +1,9 @@
+read_register	all_flow_lemon	1
+read_register	tcp	1
+read_register_sketch	sketch_reg_threshold	0	10000
+read_register_sketch	top_flow_info	16
+read_register_sketch	top_flow_size	16
+add_entry	t_match_match10	hdr.ipv4.protocol	0x06	a_set_flow_index
+add_entry	t_match_match18	hdr.ipv4.protocol	0x06		a_compute_hash_sketch
+duration	500
+window	1

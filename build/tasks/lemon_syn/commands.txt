@@ -1,0 +1,4 @@
+read_register	packet_counter1	1
+add_entry	t_match_match_ipv4_dst_leilei0	hdr.ipv4.dst_addr	10.22.0.201	hdr.tcp.flags	0x002	a_set_flow_index
+duration	60
+window	10

@@ -1,0 +1,14 @@
+read_register	ipv4_flow	1
+read_register	ipv6_flow	1
+read_register	arp_flow	1
+read_register	tcp_flow	1
+read_register	udp_flow	1
+read_register	icmp_flow	1
+add_entry	t_match_match10	hdr.ethernet.ether_type	0x0800	a_set_flow_index
+add_entry	t_match_match28	hdr.ethernet.ether_type	0x86dd	a_set_flow_index
+add_entry	t_match_match316	hdr.ethernet.ether_type	0x0806	a_set_flow_index
+add_entry	t_match_match424	hdr.ipv4.protocol	0x06	a_set_flow_index
+add_entry	t_match_match532	hdr.ipv4.protocol	0x11	a_set_flow_index
+add_entry	t_match_match640	hdr.ipv4.protocol	0x01	a_set_flow_index
+duration	60
+window	1

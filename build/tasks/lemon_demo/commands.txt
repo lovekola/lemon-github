@@ -1,0 +1,7 @@
+read_register	packet_counter1	1
+read_register	packet_counter2	1
+read_register	packet_counter3_1	1
+read_register	packet_counter3_2	1
+add_entry	t_match_hdr_ipv4_dst_addr0	hdr.ipv4.dst_addr	10.22.0.201	a_set_flow_index
+add_entry	t_match_hdr_ipv4_dst_addr7	hdr.ipv4.dst_addr	10.0.0.2	a_set_flow_index
+add_entry	t_match_hdr_ipv4_dst_addr14	hdr.ipv4.dst_addr	10.0.0.3	a_set_flow_index

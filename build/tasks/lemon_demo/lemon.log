@@ -1,0 +1,159 @@
+19:43:30 - WARNING - WebSocket transport not available. Install eventlet or gevent and gevent-websocket for improved performance.
+19:43:30 - WARNING -  * Debugger is active!
+19:43:30 - INFO -  * Debugger PIN: 125-845-517
+19:43:30 - INFO - 10.60.0.120 - - [09/Mar/2022 19:43:30] "GET /socket.io/?EIO=3&transport=polling&t=NzkVS1S HTTP/1.1" 200 -
+19:43:35 - INFO - 10.60.0.120 - - [09/Mar/2022 19:43:35] "POST /socket.io/?EIO=3&transport=polling&t=NzkVTao&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:43:35 - INFO - Test for p4 programs
+19:43:35 - INFO - Subscribe attempt #1
+19:43:35 - INFO - Subscribe response received 0
+19:43:35 - INFO - Connected to BFRT server 127.0.0.1:50052
+19:43:35 - INFO - Binding with p4_name lemon_demo
+19:43:35 - INFO - Binding with p4_name lemon_demo successful!!
+19:43:35 - INFO - Received lemon_demo on GetForwarding on client 0, device 0
+19:43:35 - INFO - Added port: 2/0 10G none 2
+19:43:35 - INFO - Added port: 2/1 10G none 2
+19:43:35 - INFO - Added port: 2/2 10G none 2
+19:43:35 - INFO - Added port: 2/3 10G none 2
+19:43:35 - INFO - Clear entry of table: SwitchIngress.t_match_hdr_ipv4_dst_addr0
+19:43:35 - INFO - Added entry success: SwitchIngress.t_match_hdr_ipv4_dst_addr0
+19:43:35 - INFO - Clear entry of table: SwitchIngress.t_match_hdr_ipv4_dst_addr7
+19:43:35 - INFO - Added entry success: SwitchIngress.t_match_hdr_ipv4_dst_addr7
+19:43:35 - INFO - Clear entry of table: SwitchIngress.t_match_hdr_ipv4_dst_addr14
+19:43:35 - INFO - Added entry success: SwitchIngress.t_match_hdr_ipv4_dst_addr14
+19:43:36 - INFO - 10.60.0.120 - - [09/Mar/2022 19:43:36] "GET /socket.io/?EIO=3&transport=polling&t=NzkVSRj&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:43:55 - INFO - 10.60.0.120 - - [09/Mar/2022 19:43:55] "POST /socket.io/?EIO=3&transport=polling&t=NzkVYYZ&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:43:55 - INFO - 10.60.0.120 - - [09/Mar/2022 19:43:55] "GET /socket.io/?EIO=3&transport=polling&t=NzkVTsu&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:20 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:20] "POST /socket.io/?EIO=3&transport=polling&t=NzkVeff&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:20 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:20] "GET /socket.io/?EIO=3&transport=polling&t=NzkVYYo&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:41 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:41] "POST /socket.io/?EIO=3&transport=polling&t=NzkVjtD&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:42 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:42] "GET /socket.io/?EIO=3&transport=polling&t=NzkVeft&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:43 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:43] "GET /socket.io/?EIO=3&transport=polling&t=NzkVk73&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:44 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:44] "GET /socket.io/?EIO=3&transport=polling&t=NzkVkMi&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:45 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:45] "POST /socket.io/?EIO=3&transport=polling&t=NzkVkmZ&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:45 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:45] "GET /socket.io/?EIO=3&transport=polling&t=NzkVkcK&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:45 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:45] "GET /socket.io/?EIO=3&transport=polling&t=NzkVkmq&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:46 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:46] "POST /socket.io/?EIO=3&transport=polling&t=NzkVl4U&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:46 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:46] "GET /socket.io/?EIO=3&transport=polling&t=NzkVks1&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:47 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:47] "GET /socket.io/?EIO=3&transport=polling&t=NzkVl5i&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:47 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:47] "GET /socket.io/?EIO=3&transport=polling&t=NzkVlKJ&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:48 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:48] "GET /socket.io/?EIO=3&transport=polling&t=NzkVlLI&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:48 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:48] "GET /socket.io/?EIO=3&transport=polling&t=NzkVlZy&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:49 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:49] "GET /socket.io/?EIO=3&transport=polling&t=NzkVlax&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:49 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:49] "GET /socket.io/?EIO=3&transport=polling&t=NzkVlpa&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:50 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:50] "GET /socket.io/?EIO=3&transport=polling&t=NzkVlqa&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:50 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:50] "GET /socket.io/?EIO=3&transport=polling&t=NzkVm3E&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:51 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:51] "GET /socket.io/?EIO=3&transport=polling&t=NzkVm4E&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:51 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:51] "GET /socket.io/?EIO=3&transport=polling&t=NzkVmIs&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:52 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:52] "GET /socket.io/?EIO=3&transport=polling&t=NzkVmJs&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:52 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:52] "GET /socket.io/?EIO=3&transport=polling&t=NzkVmYW&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:53 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:53] "GET /socket.io/?EIO=3&transport=polling&t=NzkVmZX&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:53 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:53] "GET /socket.io/?EIO=3&transport=polling&t=NzkVmoA&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:54 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:54] "GET /socket.io/?EIO=3&transport=polling&t=NzkVmpA&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:54 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:54] "GET /socket.io/?EIO=3&transport=polling&t=NzkVn1q&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:55 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:55] "GET /socket.io/?EIO=3&transport=polling&t=NzkVn33&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:55 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:55] "GET /socket.io/?EIO=3&transport=polling&t=NzkVnHS&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:56 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:56] "GET /socket.io/?EIO=3&transport=polling&t=NzkVnIR&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:56 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:56] "GET /socket.io/?EIO=3&transport=polling&t=NzkVnX7&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:57 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:57] "GET /socket.io/?EIO=3&transport=polling&t=NzkVnY7&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:57 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:57] "GET /socket.io/?EIO=3&transport=polling&t=NzkVnmn&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:58 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:58] "GET /socket.io/?EIO=3&transport=polling&t=NzkVnnk&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:58 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:58] "GET /socket.io/?EIO=3&transport=polling&t=NzkVo0a&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:59 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:59] "GET /socket.io/?EIO=3&transport=polling&t=NzkVo1d&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:44:59 - INFO - 10.60.0.120 - - [09/Mar/2022 19:44:59] "GET /socket.io/?EIO=3&transport=polling&t=NzkVoG5&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:00 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:00] "GET /socket.io/?EIO=3&transport=polling&t=NzkVoHC&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:00 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:00] "GET /socket.io/?EIO=3&transport=polling&t=NzkVoVj&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:01 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:01] "GET /socket.io/?EIO=3&transport=polling&t=NzkVoWp&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:01 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:01] "GET /socket.io/?EIO=3&transport=polling&t=NzkVolZ&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:02 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:02] "GET /socket.io/?EIO=3&transport=polling&t=NzkVonW&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:02 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:02] "GET /socket.io/?EIO=3&transport=polling&t=NzkVo-_&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:03 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:03] "GET /socket.io/?EIO=3&transport=polling&t=NzkVp0A&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:03 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:03] "GET /socket.io/?EIO=3&transport=polling&t=NzkVpEc&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:04 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:04] "GET /socket.io/?EIO=3&transport=polling&t=NzkVpFe&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:04 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:04] "GET /socket.io/?EIO=3&transport=polling&t=NzkVpUG&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:05 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:05] "GET /socket.io/?EIO=3&transport=polling&t=NzkVpVJ&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:05 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:05] "GET /socket.io/?EIO=3&transport=polling&t=NzkVpjz&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:06 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:06] "GET /socket.io/?EIO=3&transport=polling&t=NzkVpkv&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:06 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:06] "GET /socket.io/?EIO=3&transport=polling&t=NzkVpzZ&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:07 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:07] "GET /socket.io/?EIO=3&transport=polling&t=NzkVp-X&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:07 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:07] "GET /socket.io/?EIO=3&transport=polling&t=NzkVqDC&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:08 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:08] "GET /socket.io/?EIO=3&transport=polling&t=NzkVqEA&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:08 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:08] "GET /socket.io/?EIO=3&transport=polling&t=NzkVqSr&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:09 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:09] "GET /socket.io/?EIO=3&transport=polling&t=NzkVqTp&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:09 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:09] "GET /socket.io/?EIO=3&transport=polling&t=NzkVqiW&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:10 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:10] "POST /socket.io/?EIO=3&transport=polling&t=NzkVqtW&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:10 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:10] "GET /socket.io/?EIO=3&transport=polling&t=NzkVqjS&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:10 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:10] "GET /socket.io/?EIO=3&transport=polling&t=NzkVqyQ&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:10 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:10] "GET /socket.io/?EIO=3&transport=polling&t=NzkVqyc&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:11 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:11] "GET /socket.io/?EIO=3&transport=polling&t=NzkVqz4&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:11 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:11] "GET /socket.io/?EIO=3&transport=polling&t=NzkVrBn&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:12 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:12] "GET /socket.io/?EIO=3&transport=polling&t=NzkVrCl&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:12 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:12] "GET /socket.io/?EIO=3&transport=polling&t=NzkVrRQ&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:13 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:13] "GET /socket.io/?EIO=3&transport=polling&t=NzkVrSO&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:13 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:13] "GET /socket.io/?EIO=3&transport=polling&t=NzkVrh4&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:14 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:14] "GET /socket.io/?EIO=3&transport=polling&t=NzkVri2&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:14 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:14] "GET /socket.io/?EIO=3&transport=polling&t=NzkVrwi&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:15 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:15] "GET /socket.io/?EIO=3&transport=polling&t=NzkVrxg&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:15 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:15] "GET /socket.io/?EIO=3&transport=polling&t=NzkVsAL&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:16 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:16] "GET /socket.io/?EIO=3&transport=polling&t=NzkVsBO&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:16 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:16] "GET /socket.io/?EIO=3&transport=polling&t=NzkVsP_&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:17 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:17] "GET /socket.io/?EIO=3&transport=polling&t=NzkVsQy&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:17 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:17] "GET /socket.io/?EIO=3&transport=polling&t=NzkVsfe&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:18 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:18] "GET /socket.io/?EIO=3&transport=polling&t=NzkVsga&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:18 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:18] "GET /socket.io/?EIO=3&transport=polling&t=NzkVsvI&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:19 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:19] "GET /socket.io/?EIO=3&transport=polling&t=NzkVswG&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:19 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:19] "GET /socket.io/?EIO=3&transport=polling&t=NzkVt8x&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:20 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:20] "GET /socket.io/?EIO=3&transport=polling&t=NzkVt9u&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:20 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:20] "GET /socket.io/?EIO=3&transport=polling&t=NzkVtOZ&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:21 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:21] "GET /socket.io/?EIO=3&transport=polling&t=NzkVtPX&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:21 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:21] "GET /socket.io/?EIO=3&transport=polling&t=NzkVteD&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:22 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:22] "GET /socket.io/?EIO=3&transport=polling&t=NzkVtfA&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:22 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:22] "GET /socket.io/?EIO=3&transport=polling&t=NzkVtts&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:23 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:23] "GET /socket.io/?EIO=3&transport=polling&t=NzkVtup&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:23 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:23] "GET /socket.io/?EIO=3&transport=polling&t=NzkVu7W&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:24 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:24] "GET /socket.io/?EIO=3&transport=polling&t=NzkVu8T&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:24 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:24] "GET /socket.io/?EIO=3&transport=polling&t=NzkVuNB&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:25 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:25] "GET /socket.io/?EIO=3&transport=polling&t=NzkVuO7&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:25 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:25] "GET /socket.io/?EIO=3&transport=polling&t=NzkVucn&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:26 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:26] "GET /socket.io/?EIO=3&transport=polling&t=NzkVudl&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:26 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:26] "GET /socket.io/?EIO=3&transport=polling&t=NzkVusR&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:27 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:27] "GET /socket.io/?EIO=3&transport=polling&t=NzkVutP&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:27 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:27] "GET /socket.io/?EIO=3&transport=polling&t=NzkVv66&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:28 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:28] "GET /socket.io/?EIO=3&transport=polling&t=NzkVv71&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:28 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:28] "GET /socket.io/?EIO=3&transport=polling&t=NzkVvLl&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:29 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:29] "GET /socket.io/?EIO=3&transport=polling&t=NzkVvMg&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:29 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:29] "GET /socket.io/?EIO=3&transport=polling&t=NzkVvbO&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:30 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:30] "GET /socket.io/?EIO=3&transport=polling&t=NzkVvcJ&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:30 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:30] "GET /socket.io/?EIO=3&transport=polling&t=NzkVvr0&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:31 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:31] "GET /socket.io/?EIO=3&transport=polling&t=NzkVvry&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:31 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:31] "GET /socket.io/?EIO=3&transport=polling&t=NzkVw4f&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:32 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:32] "GET /socket.io/?EIO=3&transport=polling&t=NzkVw5b&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:32 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:32] "GET /socket.io/?EIO=3&transport=polling&t=NzkVwKI&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:33 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:33] "GET /socket.io/?EIO=3&transport=polling&t=NzkVwLE&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:33 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:33] "GET /socket.io/?EIO=3&transport=polling&t=NzkVwZx&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:34 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:34] "GET /socket.io/?EIO=3&transport=polling&t=NzkVwau&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:34 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:34] "GET /socket.io/?EIO=3&transport=polling&t=NzkVwpb&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:35 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:35] "POST /socket.io/?EIO=3&transport=polling&t=NzkVx34&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:35 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:35] "GET /socket.io/?EIO=3&transport=polling&t=NzkVwqX&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:35 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:35] "GET /socket.io/?EIO=3&transport=polling&t=NzkVx3F&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:36 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:36] "GET /socket.io/?EIO=3&transport=polling&t=NzkVx4A&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:36 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:36] "GET /socket.io/?EIO=3&transport=polling&t=NzkVxIw&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:37 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:37] "GET /socket.io/?EIO=3&transport=polling&t=NzkVxJp&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:37 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:37] "GET /socket.io/?EIO=3&transport=polling&t=NzkVxYZ&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:38 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:38] "GET /socket.io/?EIO=3&transport=polling&t=NzkVxZT&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:38 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:38] "GET /socket.io/?EIO=3&transport=polling&t=NzkVxoA&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:39 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:39] "GET /socket.io/?EIO=3&transport=polling&t=NzkVxp8&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:39 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:39] "GET /socket.io/?EIO=3&transport=polling&t=NzkVy1q&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:40 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:40] "GET /socket.io/?EIO=3&transport=polling&t=NzkVy2l&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:40 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:40] "GET /socket.io/?EIO=3&transport=polling&t=NzkVyHS&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:41 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:41] "GET /socket.io/?EIO=3&transport=polling&t=NzkVyIO&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:41 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:41] "GET /socket.io/?EIO=3&transport=polling&t=NzkVyX5&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:42 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:42] "GET /socket.io/?EIO=3&transport=polling&t=NzkVyY3&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:42 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:42] "GET /socket.io/?EIO=3&transport=polling&t=NzkVyml&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:43 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:43] "GET /socket.io/?EIO=3&transport=polling&t=NzkVynh&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:43 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:43] "GET /socket.io/?EIO=3&transport=polling&t=NzkVz0R&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:44 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:44] "GET /socket.io/?EIO=3&transport=polling&t=NzkVz1L&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:44 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:44] "GET /socket.io/?EIO=3&transport=polling&t=NzkVzG1&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:45 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:45] "GET /socket.io/?EIO=3&transport=polling&t=NzkVzG-&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:45 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:45] "GET /socket.io/?EIO=3&transport=polling&t=NzkVzVg&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:46 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:46] "GET /socket.io/?EIO=3&transport=polling&t=NzkVzWd&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -
+19:45:46 - INFO - 10.60.0.120 - - [09/Mar/2022 19:45:46] "GET /socket.io/?EIO=3&transport=polling&t=NzkVzlK&sid=bd69a64435e5433c9cfdd18716a674fb HTTP/1.1" 200 -

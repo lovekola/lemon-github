@@ -1,0 +1,10 @@
+read_register	counter	1
+read_register_bf	flow_num	0
+read_register_sketch	sketch_reg_threshold	0
+read_register_sketch	top_flow_info	16
+read_register_sketch	top_flow_size	16
+add_entry	t_match_match10	hdr.ipv4.src_addr	10.22.0.201/24	hdr.ipv4.dst_addr	10.22.0.200	a_set_flow_index
+add_entry	t_match_match28	hdr.ipv4.dst_addr	10.22.0.201/24	hdr.ipv4.protocol	0x06		a_compute_hash_bf
+add_entry	t_match_match316	hdr.ipv4.protocol	0x06		a_compute_hash_sketch
+duration	60
+window	5

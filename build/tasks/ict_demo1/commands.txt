@@ -1,0 +1,8 @@
+read_register	all	1
+read_register	tcp	1
+read_register	packet_counter3	1
+add_entry	t_match_match_dst_ip0	hdr.ipv4.dst_addr	10.22.0.201	a_set_flow_index
+add_entry	t_match_match_dst_ip7	hdr.ipv4.dst_addr	10.22.0.201	hdr.ipv4.protocol	0x06	a_set_flow_index
+add_entry	t_match_match_dst_ip14	hdr.ipv4.dst_addr	10.22.0.201	hdr.ipv4.src_addr	10.22.0.201	a_set_flow_index
+duration	60
+window	1

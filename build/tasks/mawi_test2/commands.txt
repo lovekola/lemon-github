@@ -1,0 +1,7 @@
+read_register	all_flow_lemon	1
+read_register	tcp	1
+read_register_bf	flow_num	0
+add_entry	t_match_match10	hdr.ipv4.protocol	0x06	a_set_flow_index
+add_entry	t_match_match28	hdr.ipv4.protocol	0x06		a_compute_hash_bf
+duration	600
+window	1

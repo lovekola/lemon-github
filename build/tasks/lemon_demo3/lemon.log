@@ -1,0 +1,15 @@
+19:14:32 - INFO - Test for p4 programs
+19:14:32 - INFO - Subscribe attempt #1
+19:14:32 - INFO - Subscribe response received 0
+19:14:32 - INFO - Connected to BFRT server 127.0.0.1:50052
+19:14:32 - INFO - Binding with p4_name lemon_demo3
+19:14:32 - INFO - Binding with p4_name lemon_demo3 successful!!
+19:14:32 - INFO - Received lemon_demo3 on GetForwarding on client 0, device 0
+19:14:32 - INFO - Added port: 2/0 10G none 2
+19:14:32 - INFO - Added port: 2/1 10G none 2
+19:14:32 - INFO - Added port: 2/2 10G none 2
+19:14:32 - INFO - Added port: 2/3 10G none 2
+19:14:32 - INFO - Clear entry of table: SwitchIngress.t_match_hdr_ipv4_dst_addr0
+19:14:32 - INFO - Added entry success: SwitchIngress.t_match_hdr_ipv4_dst_addr0
+19:14:32 - INFO - Clear entry of table: SwitchIngress.t_match_hdr_ipv4_dst_addr7
+19:14:32 - INFO - Added entry success: SwitchIngress.t_match_hdr_ipv4_dst_addr7
